@@ -1,2 +1,2 @@
-# Here we go!
+# Here we go
 Another new file
